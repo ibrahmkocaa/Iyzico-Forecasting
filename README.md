@@ -16,7 +16,7 @@ Bu proje, iyzico veri seti kullanılarak bir zaman serisi tahmin modeli oluştur
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/kullaniciadiniz/iyzico_forecasting
+   git clone https://github.com/ibrahmkocaa/iyzico_forecasting
    ```
 2. **Gerekli kütüphaneleri yükleyin:**
    ```bash
